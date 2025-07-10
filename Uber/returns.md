@@ -1,4 +1,4 @@
-The following have been obtained in the past from Uber, for drivers. 
+The following have been obtained in the past from Uber, for drivers, through the Subject Access Request process. 
 
 Driver A:  
  * 1a - Driver Account Profile Information.csv  
